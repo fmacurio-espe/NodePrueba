@@ -2,6 +2,7 @@ const axios = require('axios');
 
 var mensaje="este es el mensaje";
 var tel="593960951073";
+;
 var re=[
     {
       "phone_number":tel,
