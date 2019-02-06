@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-var mensaje="kyc prrooooo :v, ya pasamos >:{y";
+var mensaje="este es el mensaje";
 var tel="593960951073";
 var re=[
     {
